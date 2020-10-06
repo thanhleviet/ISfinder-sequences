@@ -6,7 +6,7 @@ Update:
 - 2019-09-25
 - 2018-07-25
 
-Collected from [ISfinder](https://isfinder.biotoul.fr/howto.php) , so when you use this database, please cite:
+Collected from [ISfinder](https://isfinder.biotoul.fr/howto.php) , so when you use this sequence compilation, please cite:
 
 **For ISfinder please cite**: Siguier P. et al. (2006) ISfinder: the reference centre for bacterial insertion sequences. Nucleic Acids Res. 34: D32-D36 (link pubmed) and the database URL (http://www-is.biotoul.fr).
 
